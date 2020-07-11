@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Neha045/Robo-Friends/static/css/main.efc7b0bd.chunk.css",
+    "main.js": "/Neha045/Robo-Friends/static/js/main.13a031be.chunk.js",
+    "main.js.map": "/Neha045/Robo-Friends/static/js/main.13a031be.chunk.js.map",
+    "runtime-main.js": "/Neha045/Robo-Friends/static/js/runtime-main.65b6bd9b.js",
+    "runtime-main.js.map": "/Neha045/Robo-Friends/static/js/runtime-main.65b6bd9b.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Neha045/Robo-Friends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.53864e7f.chunk.js": "/Neha045/Robo-Friends/static/js/2.53864e7f.chunk.js",
+    "static/js/2.53864e7f.chunk.js.map": "/Neha045/Robo-Friends/static/js/2.53864e7f.chunk.js.map",
+    "index.html": "/Neha045/Robo-Friends/index.html",
+    "precache-manifest.1f25a70b556fd9d71645a4d8b2d529f8.js": "/Neha045/Robo-Friends/precache-manifest.1f25a70b556fd9d71645a4d8b2d529f8.js",
+    "service-worker.js": "/Neha045/Robo-Friends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Neha045/Robo-Friends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.efc7b0bd.chunk.css.map": "/Neha045/Robo-Friends/static/css/main.efc7b0bd.chunk.css.map",
+    "static/js/2.53864e7f.chunk.js.LICENSE.txt": "/Neha045/Robo-Friends/static/js/2.53864e7f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65b6bd9b.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.53864e7f.chunk.js",
+    "static/css/main.efc7b0bd.chunk.css",
+    "static/js/main.13a031be.chunk.js"
+  ]
+}
